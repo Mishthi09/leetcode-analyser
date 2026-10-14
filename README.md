@@ -33,4 +33,4 @@ LeetTrack is an advanced LeetCode profile analyzer that helps users understand c
 
 ## 🚀 Live Demo
 
-(https://nanowarp.github.io/LeetCode-Insight-Dashboard/)
+(https://mishthi09.github.io/leetcode-analyser/)
